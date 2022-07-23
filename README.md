@@ -7,7 +7,7 @@ IBC icons is an unofficial icon font for the Cosmos Network
 
 #### Using a font
 
-The `font` folder contains pre-generated font files that can be included in a project. This is especially convenient for the web; however, it is generally better to link to the web font hosted on Google Fonts:
+The `fonts` folder contains pre-generated font files that can be included in a project. This is especially convenient for the web; however, it is generally better to link to the web font hosted on Google Fonts:
 
 ```html
 link rel="stylesheet" href="style.css">
