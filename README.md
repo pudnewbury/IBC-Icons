@@ -10,18 +10,18 @@ IBC icons is an unofficial icon font for the Cosmos Network
 The `fonts` folder contains pre-generated font files that can be included in a project. This is especially convenient for the web; however, it is generally better to link to the web font hosted on Google Fonts:
 
 ```html
-link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css">
 ```
 
 To use your icon font on a website 1) copy the CSS code that came in “style.css” to your own CSS file and 2) copy the “fonts” folder to your root website folder. Make sure that the uploaded fonts are linked from the imported CSS and properly placed in “fonts/”.
 
 An icon can be inserted with the following HTML code:
 
-The class name “icon-write” is generated from the title you gave each icon when creating the icon font. The classes are referred to styling definitions in the included CSS file:
+The classes are referred to styling definitions in the included CSS file:
 
 ```html
-.icon-write:before {
-content: “\w61”;
+.ibc-osmo:before {
+content: “\e90e”;
 }
 ```
 
