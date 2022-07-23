@@ -1,16 +1,17 @@
 @font-face {
   font-family: 'ibc-icons';
-  src:  url('fonts/ibc-icons.eot?6uy6h');
-  src:  url('fonts/ibc-icons.eot?6uy6h#iefix') format('embedded-opentype'),
-    url('fonts/ibc-icons.ttf?6uy6h') format('truetype'),
-    url('fonts/ibc-icons.woff?6uy6h') format('woff'),
-    url('fonts/ibc-icons.svg?6uy6h#ibc-icons') format('svg');
+  src:  url('fonts/ibc-icons.eot?moocz6');
+  src:  url('fonts/ibc-icons.eot?moocz6#iefix') format('embedded-opentype'),
+    url('fonts/ibc-icons.woff2?moocz6') format('woff2'),
+    url('fonts/ibc-icons.ttf?moocz6') format('truetype'),
+    url('fonts/ibc-icons.woff?moocz6') format('woff'),
+    url('fonts/ibc-icons.svg?moocz6#ibc-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+i {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'ibc-icons' !important;
   speak: never;
@@ -25,27 +26,63 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-akash:before {
+.ibc-akt:before {
   content: "\e900";
 }
-.icon-atom:before {
+.ibc-atom:before {
   content: "\e901";
 }
-.icon-juno:before {
+.ibc-band:before {
+  content: "\e90a";
+}
+.ibc-btsg:before {
   content: "\e902";
 }
-.icon-neta:before {
+.ibc-cro:before {
   content: "\e903";
 }
-.icon-osmo:before {
+.ibc-dvpn:before {
   content: "\e904";
 }
-.icon-regen:before {
+.ibc-erowan:before {
   content: "\e905";
 }
-.icon-secret:before {
+.ibc-evmos:before {
   content: "\e906";
 }
-.icon-stargaze:before {
+.ibc-iov:before {
   content: "\e907";
+}
+.ibc-juno:before {
+  content: "\e908";
+}
+.ibc-kava:before {
+  content: "\e909";
+}
+.ibc-mntl:before {
+  content: "\e90b";
+}
+.ibc-neta:before {
+  content: "\e90d";
+}
+.ibc-osmo:before {
+  content: "\e90e";
+}
+.ibc-regen:before {
+  content: "\e90f";
+}
+.ibc-rune:before {
+  content: "\e910";
+}
+.ibc-scrt:before {
+  content: "\e911";
+}
+.ibc-stars:before {
+  content: "\e912";
+}
+.ibc-umee:before {
+  content: "\e913";
+}
+.ibc-xprt:before {
+  content: "\e914";
 }
