@@ -1,11 +1,11 @@
-# IBC-Icons
+# IBC Icons
 IBC icons is an unofficial icon font for the Cosmos Network
 
 #### Demo
 
 [https://pud.wtf](https://pud.wtf)
 
-#### Using a font
+#### Using the icon font
 
 The `fonts` folder contains pre-generated font files that can be included in a project.
 
