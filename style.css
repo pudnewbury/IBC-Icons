@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'ibc-icons';
-  src:  url('fonts/ibc-icons.eot?moocz6');
-  src:  url('fonts/ibc-icons.eot?moocz6#iefix') format('embedded-opentype'),
-    url('fonts/ibc-icons.woff2?moocz6') format('woff2'),
-    url('fonts/ibc-icons.ttf?moocz6') format('truetype'),
-    url('fonts/ibc-icons.woff?moocz6') format('woff'),
-    url('fonts/ibc-icons.svg?moocz6#ibc-icons') format('svg');
+  src:  url('fonts/ibc-icons.eot?z0rmno');
+  src:  url('fonts/ibc-icons.eot?z0rmno#iefix') format('embedded-opentype'),
+    url('fonts/ibc-icons.woff2?z0rmno') format('woff2'),
+    url('fonts/ibc-icons.ttf?z0rmno') format('truetype'),
+    url('fonts/ibc-icons.woff?z0rmno') format('woff'),
+    url('fonts/ibc-icons.svg?z0rmno#ibc-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -33,56 +33,209 @@ i {
   content: "\e901";
 }
 .ibc-band:before {
-  content: "\e90a";
-}
-.ibc-btsg:before {
   content: "\e902";
 }
-.ibc-cro:before {
+.ibc-bcna:before {
   content: "\e903";
 }
-.ibc-dvpn:before {
+.ibc-btsg:before {
   content: "\e904";
 }
-.ibc-erowan:before {
+.ibc-cmdx:before {
   content: "\e905";
 }
-.ibc-evmos:before {
+.ibc-cre:before {
   content: "\e906";
 }
-.ibc-iov:before {
+.ibc-cro:before {
   content: "\e907";
 }
-.ibc-juno:before {
+.ibc-ctk:before {
   content: "\e908";
 }
-.ibc-kava:before {
+.ibc-dsm:before {
   content: "\e909";
 }
-.ibc-mntl:before {
+.ibc-dvpn:before {
+  content: "\e90a";
+}
+.ibc-erowan:before {
   content: "\e90b";
 }
-.ibc-neta:before {
+.ibc-evmos:before {
+  content: "\e90c";
+}
+.ibc-fet:before {
   content: "\e90d";
 }
-.ibc-osmo:before {
+.ibc-huahua .path1:before {
   content: "\e90e";
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path2:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path3:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path4:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path5:before {
+  content: "\e912";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path6:before {
+  content: "\e913";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path7:before {
+  content: "\e914";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path8:before {
+  content: "\e915";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path9:before {
+  content: "\e916";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path10:before {
+  content: "\e917";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path11:before {
+  content: "\e918";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path12:before {
+  content: "\e919";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path13:before {
+  content: "\e91a";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path14:before {
+  content: "\e91b";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path15:before {
+  content: "\e91c";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path16:before {
+  content: "\e91d";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path17:before {
+  content: "\e91e";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path18:before {
+  content: "\e91f";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path19:before {
+  content: "\e920";
+  margin-left: -1em;
+  color: rgb(29, 29, 27);
+}
+.ibc-huahua .path20:before {
+  content: "\e921";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-huahua .path21:before {
+  content: "\e922";
+  margin-left: -1em;
+  color: rgb(255, 255, 255);
+}
+.ibc-inj:before {
+  content: "\e923";
+}
+.ibc-iov:before {
+  content: "\e924";
+}
+.ibc-iris:before {
+  content: "\e925";
+}
+.ibc-juno:before {
+  content: "\e926";
+}
+.ibc-kava:before {
+  content: "\e927";
+}
+.ibc-med:before {
+  content: "\e928";
+}
+.ibc-mntl:before {
+  content: "\e929";
+}
+.ibc-neta:before {
+  content: "\e92a";
+}
+.ibc-ngm .path1:before {
+  content: "\e92b";
+  color: rgb(255, 255, 255);
+}
+.ibc-ngm .path2:before {
+  content: "\e92c";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ibc-ngm .path3:before {
+  content: "\e92d";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ibc-ngm .path4:before {
+  content: "\e92e";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.ibc-osmo:before {
+  content: "\e92f";
 }
 .ibc-regen:before {
-  content: "\e90f";
+  content: "\e930";
 }
 .ibc-rune:before {
-  content: "\e910";
+  content: "\e931";
 }
 .ibc-scrt:before {
-  content: "\e911";
+  content: "\e932";
 }
 .ibc-stars:before {
-  content: "\e912";
+  content: "\e933";
 }
 .ibc-umee:before {
-  content: "\e913";
+  content: "\e934";
+}
+.ibc-xki:before {
+  content: "\e935";
 }
 .ibc-xprt:before {
-  content: "\e914";
+  content: "\e936";
 }
