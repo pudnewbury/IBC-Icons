@@ -7,13 +7,9 @@ IBC icons is an unofficial icon font for the Cosmos Network
 
 #### Using a font
 
-The `fonts` folder contains pre-generated font files that can be included in a project. This is especially convenient for the web; however, it is generally better to link to the web font hosted on Google Fonts:
+The `fonts` folder contains pre-generated font files that can be included in a project.
 
-```html
-<link rel="stylesheet" href="style.css">
-```
-
-To use your icon font on a website 1) copy the CSS code that came in “style.css” to your own CSS file and 2) copy the “fonts” folder to your root website folder. Make sure that the uploaded fonts are linked from the imported CSS and properly placed in “fonts/”.
+To use the icon font on a website 1) copy the CSS code in “style.css” to your own CSS file and 2) copy the “fonts” folder to your root website folder. Make sure that the uploaded fonts are linked from the imported CSS and properly placed in “fonts/”.
 
 An icon can be inserted with the following HTML code:
 
