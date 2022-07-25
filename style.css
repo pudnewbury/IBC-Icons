@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'ibc-icons';
-  src:  url('fonts/ibc-icons.eot?z0rmno');
-  src:  url('fonts/ibc-icons.eot?z0rmno#iefix') format('embedded-opentype'),
-    url('fonts/ibc-icons.woff2?z0rmno') format('woff2'),
-    url('fonts/ibc-icons.ttf?z0rmno') format('truetype'),
-    url('fonts/ibc-icons.woff?z0rmno') format('woff'),
-    url('fonts/ibc-icons.svg?z0rmno#ibc-icons') format('svg');
+  src:  url('fonts/ibc-icons.eot?tgfdaf');
+  src:  url('fonts/ibc-icons.eot?tgfdaf#iefix') format('embedded-opentype'),
+    url('fonts/ibc-icons.woff2?tgfdaf') format('woff2'),
+    url('fonts/ibc-icons.ttf?tgfdaf') format('truetype'),
+    url('fonts/ibc-icons.woff?tgfdaf') format('woff'),
+    url('fonts/ibc-icons.svg?tgfdaf#ibc-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -68,112 +68,14 @@ i {
 .ibc-fet:before {
   content: "\e90d";
 }
-.ibc-huahua .path1:before {
+.ibc-huahua:before {
   content: "\e90e";
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path2:before {
-  content: "\e90f";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path3:before {
-  content: "\e910";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path4:before {
-  content: "\e911";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path5:before {
-  content: "\e912";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path6:before {
-  content: "\e913";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path7:before {
-  content: "\e914";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path8:before {
-  content: "\e915";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path9:before {
-  content: "\e916";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path10:before {
-  content: "\e917";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path11:before {
-  content: "\e918";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path12:before {
-  content: "\e919";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path13:before {
-  content: "\e91a";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path14:before {
-  content: "\e91b";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path15:before {
-  content: "\e91c";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path16:before {
-  content: "\e91d";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path17:before {
-  content: "\e91e";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path18:before {
-  content: "\e91f";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path19:before {
-  content: "\e920";
-  margin-left: -1em;
-  color: rgb(29, 29, 27);
-}
-.ibc-huahua .path20:before {
-  content: "\e921";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
-.ibc-huahua .path21:before {
-  content: "\e922";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
 }
 .ibc-inj:before {
   content: "\e923";
+}
+.ibc-ion:before {
+  content: "\e90f";
 }
 .ibc-iov:before {
   content: "\e924";
@@ -196,24 +98,8 @@ i {
 .ibc-neta:before {
   content: "\e92a";
 }
-.ibc-ngm .path1:before {
+.ibc-ngm:before {
   content: "\e92b";
-  color: rgb(255, 255, 255);
-}
-.ibc-ngm .path2:before {
-  content: "\e92c";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.ibc-ngm .path3:before {
-  content: "\e92d";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
-}
-.ibc-ngm .path4:before {
-  content: "\e92e";
-  margin-left: -1em;
-  color: rgb(0, 0, 0);
 }
 .ibc-osmo:before {
   content: "\e92f";
